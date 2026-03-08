@@ -1,0 +1,17 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# python
+__pycache__/
+*.pyc
+
+# environment variables
+.env
+
+# temp files
+*.tmp
+*.log
+
+# OS files
+desktop.ini
